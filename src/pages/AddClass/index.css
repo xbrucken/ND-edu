@@ -1,0 +1,55 @@
+.edu-content {
+	margin-left: 35px;
+	width: 1138px;
+	min-height: 600px;
+	overflow: hidden;
+}
+
+/* 标题（我的班级+返回键） */
+
+.edu-content-head {
+	height: 76px;
+	line-height: 76px;
+	width: 100%;
+	border-bottom: 1px solid #e2e2e2;
+}
+
+.edu-content-title {
+	margin-top: 10px;
+	height: 66px;
+}
+
+.edu-content-return {
+	margin: 20px 0;
+	vertical-align: middle;
+	display: inline-block;
+}
+
+/* 班级名称 */
+.edu-content-addclass {
+	width: 1138px;
+	height: 100%;
+	padding-top: 20px;
+    /* border: solid 1px #ddd; */
+}
+
+.edu-content-form {
+	margin-top: 20px;
+}
+
+/* antd表单默认样式修改 */
+.ant-select-single:not(.ant-select-customize-input) .ant-select-selector {
+    height: 36px;
+}
+
+.h36 {
+	line-height: 36px;
+}
+
+.ant-form-item-control-input {
+    margin-left: 17px;
+}
+
+.ant-form-item {
+    margin-bottom: 20px;
+}

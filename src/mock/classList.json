@@ -1,0 +1,363 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "list": [
+    {
+      "id": 0,
+      "grade": "高中-2015级",
+      "className": "五年四班",
+      "classTeach": "灰太狼",
+      "studentNumber": "5",
+      "type": "admin",
+      "teachers": [
+        {
+          "tagSrc": [
+            "../assets/tag_headmaster.png",
+            "../assets/tag_t_biology.png",
+            "../assets/tag_chinese.png",
+            "../assets/tag_cs.png",
+            "../assets/tag_geography.png",
+            "../assets/tag_history.png",
+            "../assets/tag_chinese.png",
+            "../assets/tag_cs.png"
+          ],
+          "memberName": "灰太狼"
+        },
+        {
+          "tagSrc": [
+            "../assets/tag_t_biology.png",
+            "../assets/tag_chinese.png",
+            "../assets/tag_cs.png",
+            "../assets/tag_geography.png",
+            "../assets/tag_history.png",
+            "../assets/tag_chinese.png",
+            "../assets/tag_cs.png"
+          ],
+          "memberName": "红太狼"
+        },
+        {
+          "tagSrc": [
+            "../assets/tag_t_biology.png",
+            "../assets/tag_chinese.png",
+            "../assets/tag_cs.png",
+            "../assets/tag_geography.png",
+            "../assets/tag_history.png",
+            "../assets/tag_chinese.png",
+            "../assets/tag_cs.png"
+          ],
+          "memberName": "白太狼"
+        },
+        {
+          "tagSrc": [
+            "../assets/tag_t_biology.png",
+            "../assets/tag_chinese.png",
+            "../assets/tag_cs.png",
+            "../assets/tag_geography.png",
+            "../assets/tag_history.png",
+            "../assets/tag_chinese.png",
+            "../assets/tag_cs.png"
+          ],
+          "memberName": "绿太狼"
+        }
+      ],
+      "students": [
+        {
+          "tagSrc": [
+            "../assets/tag_monitor.png",
+            "../assets/tag_s_biology.png"
+          ],
+          "memberName": "卫三"
+        },
+        {
+          "tagSrc": [
+            "../assets/tag_s_cs.png"
+          ],
+          "memberName": "应星决"
+        },
+        {
+          "tagSrc": [
+            "../assets/tag_s_math.png"
+          ],
+          "memberName": "应成河"
+        },
+        {
+          "tagSrc": [
+            "../assets/tag_s_biology.png"
+          ],
+          "memberName": "肖伊莱"
+        },
+        {
+          "tagSrc": [
+            "../assets/tag_s_math.png"
+          ],
+          "memberName": "廖如宁"
+        }
+      ],
+      "parents": [
+        {
+          "tagSrc": [
+            "../assets/tag_p.png"
+          ],
+          "memberName": "达摩克利斯"
+        },
+        {
+          "tagSrc": [
+            "../assets/tag_p.png"
+          ],
+          "memberName": "帝国"
+        },
+        {
+          "tagSrc": [
+            "../assets/tag_p.png"
+          ],
+          "memberName": "赛缪尔"
+        },
+        {
+          "tagSrc": [],
+          "memberName": "平通院"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "grade": "初中-2017级",
+      "className": "初二三班",
+      "classTeach": "路人甲",
+      "studentNumber": "5",
+      "type": "admin",
+      "teachers": [
+        {
+          "tagSrc": [
+            "../assets/tag_headmaster.png",
+            "../assets/tag_t_biology.png",
+            "../assets/tag_chinese.png",
+            "../assets/tag_cs.png",
+            "../assets/tag_geography.png",
+            "../assets/tag_history.png",
+            "../assets/tag_chinese.png",
+            "../assets/tag_cs.png"
+          ],
+          "memberName": "路人甲"
+        },
+        {
+          "tagSrc": [
+            "../assets/tag_t_biology.png",
+            "../assets/tag_chinese.png",
+            "../assets/tag_cs.png",
+            "../assets/tag_geography.png",
+            "../assets/tag_history.png",
+            "../assets/tag_chinese.png",
+            "../assets/tag_cs.png"
+          ],
+          "memberName": "路人乙"
+        },
+        {
+          "tagSrc": [
+            "../assets/tag_t_biology.png",
+            "../assets/tag_chinese.png",
+            "../assets/tag_cs.png",
+            "../assets/tag_geography.png",
+            "../assets/tag_history.png",
+            "../assets/tag_chinese.png",
+            "../assets/tag_cs.png"
+          ],
+          "memberName": "路人丙"
+        },
+        {
+          "tagSrc": [
+            "../assets/tag_t_biology.png",
+            "../assets/tag_chinese.png",
+            "../assets/tag_cs.png",
+            "../assets/tag_geography.png",
+            "../assets/tag_history.png",
+            "../assets/tag_chinese.png",
+            "../assets/tag_cs.png"
+          ],
+          "memberName": "路人丁"
+        }
+      ],
+      "students": [
+        {
+          "tagSrc": [
+            "../assets/tag_monitor.png",
+            "../assets/tag_s_biology.png"
+          ],
+          "memberName": "卫四"
+        },
+        {
+          "tagSrc": [
+            "../assets/tag_s_cs.png"
+          ],
+          "memberName": "编不出来"
+        },
+        {
+          "tagSrc": [
+            "../assets/tag_s_math.png"
+          ],
+          "memberName": "起名困难"
+        },
+        {
+          "tagSrc": [
+            "../assets/tag_s_biology.png"
+          ],
+          "memberName": "随便看看"
+        },
+        {
+          "tagSrc": [
+            "../assets/tag_s_math.png"
+          ],
+          "memberName": "人齐了"
+        }
+      ],
+      "parents": [
+        {
+          "tagSrc": [
+            "../assets/tag_p.png"
+          ],
+          "memberName": "家长甲"
+        },
+        {
+          "tagSrc": [
+            "../assets/tag_p.png"
+          ],
+          "memberName": "家长乙"
+        },
+        {
+          "tagSrc": [
+            "../assets/tag_p.png"
+          ],
+          "memberName": "家长丙"
+        },
+        {
+          "tagSrc": [],
+          "memberName": "家长丁"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "grade": "小学-2015级",
+      "className": "三年五班",
+      "classTeach": "苏东坡",
+      "studentNumber": "4",
+      "type": "teach",
+      "teachers": [
+        {
+          "tagSrc": [
+            "../assets/tag_headmaster.png",
+            "../assets/tag_t_biology.png",
+            "../assets/tag_chinese.png",
+            "../assets/tag_cs.png",
+            "../assets/tag_geography.png",
+            "../assets/tag_history.png",
+            "../assets/tag_chinese.png",
+            "../assets/tag_cs.png"
+          ],
+          "memberName": "苏东坡"
+        },
+        {
+          "tagSrc": [
+            "../assets/tag_t_biology.png",
+            "../assets/tag_chinese.png",
+            "../assets/tag_cs.png",
+            "../assets/tag_geography.png",
+            "../assets/tag_history.png",
+            "../assets/tag_chinese.png",
+            "../assets/tag_cs.png"
+          ],
+          "memberName": "李白"
+        },
+        {
+          "tagSrc": [
+            "../assets/tag_t_biology.png",
+            "../assets/tag_chinese.png",
+            "../assets/tag_cs.png",
+            "../assets/tag_geography.png",
+            "../assets/tag_history.png",
+            "../assets/tag_chinese.png",
+            "../assets/tag_cs.png"
+          ],
+          "memberName": "陆游"
+        },
+        {
+          "tagSrc": [
+            "../assets/tag_t_biology.png",
+            "../assets/tag_chinese.png",
+            "../assets/tag_cs.png",
+            "../assets/tag_geography.png",
+            "../assets/tag_history.png",
+            "../assets/tag_chinese.png",
+            "../assets/tag_cs.png"
+          ],
+          "memberName": "杜甫"
+        }
+      ],
+      "students": [
+        {
+          "tagSrc": [
+            "../assets/tag_monitor.png",
+            "../assets/tag_s_biology.png"
+          ],
+          "memberName": "宋"
+        },
+        {
+          "tagSrc": [
+            "../assets/tag_s_cs.png"
+          ],
+          "memberName": "元"
+        },
+        {
+          "tagSrc": [
+            "../assets/tag_s_math.png"
+          ],
+          "memberName": "明"
+        },
+        {
+          "tagSrc": [
+            "../assets/tag_s_biology.png"
+          ],
+          "memberName": "清"
+        }
+      ],
+      "parents": [
+        {
+          "tagSrc": [
+            "../assets/tag_p.png"
+          ],
+          "memberName": "兵马俑A"
+        },
+        {
+          "tagSrc": [
+            "../assets/tag_p.png"
+          ],
+          "memberName": "兵马俑B"
+        },
+        {
+          "tagSrc": [
+            "../assets/tag_p.png"
+          ],
+          "memberName": "兵马俑C"
+        },
+        {
+          "tagSrc": [],
+          "memberName": "兵马俑D"
+        }
+      ]
+    }
+  ]
+}

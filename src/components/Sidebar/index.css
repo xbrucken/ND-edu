@@ -1,0 +1,46 @@
+.edu-sidebar {
+	margin-top: 30px;
+	height: 100%;
+	width: 240px;
+	border-right: 1px solid #999999;
+	background-color: #fff;
+}
+
+.edu-sidebar-title {
+	width: 240px;
+	height: 30px;
+	line-height: 30px;
+	margin-bottom: 35px;
+	padding-right: 13px;
+	font-size: 20px;
+	color: #a9a9a9;
+}
+
+.edu-sidebar-title-icon {
+	display: inline-block;
+}
+
+.edu-sidebar-title-font {
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 8px;
+}
+
+.edu-sidebar-list {
+	width: 100%;
+}
+
+.edu-sidebar-item {
+	padding-left: 25px;
+	height: 60px;
+	line-height: 60px;
+}
+
+.edu-sidebar-item img {
+	margin-right: 20px;
+}
+
+.edu-sidebar-item:hover {
+	background-color: #f4f5f5;
+	border-left: 3px solid #3ba8f0;
+}

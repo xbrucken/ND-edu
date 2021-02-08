@@ -1,0 +1,63 @@
+.edu-header {
+	width: 100%;
+	border-bottom: 1px solid #e2e2e2;
+}
+
+.edu-nav-container {
+	width: 1413px;
+	margin: 0 auto;
+	height: 57px;
+	line-height: 57px;
+	background-color: #fff;
+}
+
+/* logo  */
+
+.edu-logo-box {
+	margin: 0 25px 0 5px;
+	background: url('../../assets/title.png') no-repeat 50% 50%;
+	height: 100%;
+	width: 286px;
+}
+
+/* 导航菜单 */
+
+.edu-nav-item {
+	font-size: 16px;
+	height: 57px;
+	line-height: 57px;
+	padding: 0 25px;
+}
+
+/* 新功能 */
+
+.edu-newfunction {
+	display: inline-block;
+	width: 56px;
+	height: 20px;
+	vertical-align: middle;
+	background: url('../../assets/newfunc.png') no-repeat 50% 50%;
+}
+
+/* 搜索 */
+
+.edu-nav-search {
+	height: 57px;
+	line-height: 57px;
+	margin: auto 35px;
+}
+
+/* 用户 */
+
+.edu-user {
+	height: 57px;
+	line-height: 57px;
+	margin-left: 40px;
+}
+
+.edu-user-name {
+	display: inline-block;
+	margin-left: 15px;
+	font-size: 12px;
+	vertical-align: bottom;
+}

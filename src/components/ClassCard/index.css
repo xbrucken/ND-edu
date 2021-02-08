@@ -1,0 +1,28 @@
+.edu-content {
+	margin-left: 35px;
+	width: 1138px;
+	min-height: 600px;
+	overflow: hidden;
+}
+
+/* 标题（我的班级+返回键） */
+
+.edu-content-head {
+	height: 76px;
+	line-height: 76px;
+	width: 100%;
+	border-bottom: 1px solid #e2e2e2;
+	/* background-color: pink; */
+}
+
+.edu-content-title {
+	margin-top: 10px;
+	height: 66px;
+}
+
+.edu-content-return {
+	margin: 20px 0;
+	vertical-align: middle;
+	display: inline-block;
+}
+
